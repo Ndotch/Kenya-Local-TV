@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:0,KTN HOME
+
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Kenya_Television_Network#/media/File:KTN.2014-present_logo.jpg" group-title="Kenya", KTN HOME
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655241147/ei/WqWoYv6rL5PgWuSYhTA/ip/41.212.26.238/id/x1p_Tvor-C8.1/source/yt_live_broadcast/requiressl/yes/tx/24201800/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/ke/spc/4ocVCzueImn3Jm_cLQr5grMYHRIXl6zspp90VKIZbijp/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfz1VdGvJep1kfIhjp-iuMByO1lTYVmcuWA9XctKFPWECIAKEauxECZd8baRfHj8gqZFQOJmkegCs_rmAtxFanVkX/file/index.m3u8
-#EXTINF:0,KTN NEWS
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/KTN_News_Kenya#/media/File:KTN_News_logo.jpg" group-title="Kenya", KTN NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655241228/ei/q6WoYoSdLeTDmwePyYiABg/ip/41.212.26.238/id/lViJu9W52xo.1/source/yt_live_broadcast/requiressl/yes/tx/24201800/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC1hYYJzlxOMlr-S8z2Rc1jcB-L1xBJldloX7h0IC/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIqbXdw7SSkYQ8GxfbpOyc_uiYv-QixNFHQ_uC33lgSBAiAXsqnEws50AuA5aDMkCxFAr4LWc-lvz6Yj4lJVH8W5fA%3D%3D/file/index.m3u8
-#EXTINF:0,NTV
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NTV_%28Kenyan_TV_channel%29#/media/File:NTV_(Kenya)_logo.png" group-title="Kenya", NTV 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655244156/ei/HLGoYs7UJoPcWcTMvIgI/ip/41.212.26.238/id/epKB0Oe-cT8.1/source/yt_live_broadcast/requiressl/yes/tx/24201800/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC_NLgiSduBvl6kEF8Z8xY14Jc0pfDlhNeejcG2SW/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM7yxq5rabrybzV1Ki1wYPKqzosqD_OeD4VHG42juEOsAiEAnekSno3ReDAcm-SXoOjwg6ZDM7-5qDXIuc7eizUNKcE%3D/file/index.m3u8
-#EXTINF:0,Citizen TV
+
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Citizen_TV#/media/File:Citizen_TV_(Kenya)_logo.png" group-title="Kenya", Citizen TV 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1655239137/ei/gZ2oYs6UDI-sW9DvjqgC/ip/41.212.26.238/id/fQ74ryN0KrM.1/source/yt_live_broadcast/requiressl/yes/tx/24201800/txs/24200493%2C24200494%2C24200495%2C24201799%2C24201800/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVCztNv4ps-DsYKQpTuuJZXeFRbdEKQtENdhCwk5rC/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALEuAVwAK-Cjtk0rN-gfGrex_SXL2RddQg6ykye-4caUAiAJa0Wk-Cz4aKxGSOsCo9ddTFeBVlpbFnoEFv304comnQ%3D%3D/file/index.m3u8
